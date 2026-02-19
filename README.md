@@ -146,6 +146,4 @@ http://127.0.0.1:5000
 
 ## 📌 Conclusion
 
-This project demonstrates how **Machine Learning can be effectively used to predict electric motor temperature**, helping industries prevent failures, reduce downtime, and improve operational efficiency. It showcases the practical use of ML in real-world predictive maintenance applications.
-
----
+This project demonstrates how **Machine Learning can be effectively used to predict electric motor temperature**, helping industries prevent failures, reduce downtime, and improve operational efficiency. It showcases the practical use of ML in real-world predictive maintenance application
